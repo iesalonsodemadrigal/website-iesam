@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>IESAM</title>
+    <link href="https://siadenlab.iesalonsodemadrigal.es/iesam/feed.xml" rel="self" />
+    <link href="https://siadenlab.iesalonsodemadrigal.es/iesam" />
+    <updated>2024-10-24T18:24:36+02:00</updated>
+    <author>
+        <name>Chema</name>
+    </author>
+    <id>https://siadenlab.iesalonsodemadrigal.es/iesam</id>
+
+    <entry>
+        <title>El problema</title>
+        <author>
+            <name>Camilo</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/iesam/el-problema.html"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/iesam/el-problema.html</id>
+
+        <updated>2024-10-24T18:23:53+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Introducción</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/iesam/introduccion.html"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/iesam/introduccion.html</id>
+
+        <updated>2024-10-24T18:22:51+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
