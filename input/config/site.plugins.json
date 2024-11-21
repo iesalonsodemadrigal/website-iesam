@@ -1,1 +1,7 @@
-{}
+{
+    "docSearch": false,
+    "featherIcons": false,
+    "googleAnalyticsIntegration": false,
+    "staticCustomSearch": false,
+    "umamiAnalyticsIntegration": false
+}
