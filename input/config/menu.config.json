@@ -1,7 +1,7 @@
 [
     {
         "name": "MainMenu",
-        "position": "",
+        "position": "sidebarMenu",
         "items": [
             {
                 "id": 1729786958923,
@@ -38,7 +38,20 @@
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
+            },
+            {
+                "id": 1734375294472,
+                "label": "Test",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
             }
-        ]
+        ],
+        "maxLevels": "-1"
     }
 ]
