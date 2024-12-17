@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "IESAM",
+    "description": "",
+    "home_page_url": "file:///C:\Users\JUANZUN\Documents\Publii\sites\website-iesam\preview",
+    "feed_url": "file:///C:\Users\JUANZUN\Documents\Publii\sites\website-iesam\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chema"
+    },
+    "items": [
+        {
+            "id": "file:///C:\Users\JUANZUN\Documents\Publii\sites\website-iesam\preview/el-problema.html",
+            "url": "file:///C:\Users\JUANZUN\Documents\Publii\sites\website-iesam\preview/el-problema.html",
+            "title": "El problema",
+            "author": {
+                "name": "Camilo"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-24T18:23:53+02:00",
+            "date_modified": "2024-10-24T18:24:36+02:00"
+        },
+        {
+            "id": "file:///C:\Users\JUANZUN\Documents\Publii\sites\website-iesam\preview/introduccion.html",
+            "url": "file:///C:\Users\JUANZUN\Documents\Publii\sites\website-iesam\preview/introduccion.html",
+            "title": "Introducción",
+            "author": {
+                "name": "Chema"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-24T18:22:51+02:00",
+            "date_modified": "2024-10-24T18:22:51+02:00"
+        }
+    ]
+}
