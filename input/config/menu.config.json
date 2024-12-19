@@ -42,11 +42,11 @@
             {
                 "id": 1734375294472,
                 "label": "Desarrolladores",
-                "title": "",
+                "title": "desarrolladores",
                 "type": "page",
                 "target": "_self",
                 "rel": "",
-                "link": 5,
+                "link": 10,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
@@ -54,19 +54,7 @@
             {
                 "id": 1734626557103,
                 "label": "Tramites",
-                "title": "Tramites",
-                "type": "page",
-                "target": "_self",
-                "rel": "",
-                "link": 6,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
-                "id": 1734627129847,
-                "label": "Ayudas",
-                "title": "",
+                "title": "tramites",
                 "type": "page",
                 "target": "_self",
                 "rel": "",
@@ -76,13 +64,49 @@
                 "items": []
             },
             {
+                "id": 1734627129847,
+                "label": "Ayudas",
+                "title": "ayudas",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 6,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 1734631713875,
                 "label": "Noticias",
-                "title": "",
+                "title": "noticias",
                 "type": "page",
                 "target": "_self",
                 "rel": "",
                 "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1734634114607,
+                "label": "Centro",
+                "title": "centro",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 9,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1734634135440,
+                "label": "Recursos",
+                "title": "recursos",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 8,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
