@@ -198,10 +198,10 @@
         "git": {
             "url": "https://github.com/iesalonsodemadrigal/website-iesam.git",
             "branch": "gh-pages",
-            "user": "jmperezra",
+            "user": "CarlosDeMoraGil",
             "password": "publii-git-password uuid-1729786874801-936958331",
-            "commitAuthor": "Chema",
-            "commitEmail": "jmperezra@gmail.com",
+            "commitAuthor": "Carlos",
+            "commitEmail": "carlosdemoragil825@gmail.com",
             "commitMessage": "Publii: update content"
         },
         "github": {
@@ -235,5 +235,5 @@
         }
     },
     "theme": "prodocs",
-    "syncDate": 1732156144978
+    "syncDate": 1734628505295
 }
