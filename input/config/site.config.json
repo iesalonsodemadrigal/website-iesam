@@ -1,14 +1,14 @@
 {
-    "uuid": "uuid-1729786874801-936958331",
-    "name": "iesam",
-    "displayName": "IESAM",
+    "uuid": "uuid-1734377755163-669968870",
+    "name": "website-iesam",
+    "displayName": "website-iesam",
     "synced": "synced",
     "logo": {
         "color": 1,
         "icon": "web-pizza"
     },
     "domain": "https://siadenlab.iesalonsodemadrigal.es/iesam",
-    "language": "es",
+    "language": "en-gb",
     "spellchecking": false,
     "advanced": {
         "cssCompression": 1,
@@ -79,8 +79,8 @@
         "featuredPostsListingOrder": "DESC",
         "hiddenPostsListingOrderBy": "created_at",
         "hiddenPostsListingOrder": "DESC",
-        "usePageAsFrontpage": true,
-        "pageAsFrontpage": 1,
+        "usePageAsFrontpage": false,
+        "pageAsFrontpage": 0,
         "feed": {
             "title": "displayName",
             "titleValue": "",
@@ -159,7 +159,7 @@
             "debugMode": false,
             "vimeoNoTrack": false,
             "ytNoCookies": false,
-            "settingsVersion": "v2"
+            "settingsVersion": ""
         },
         "relatedPostsOrder": "default",
         "relatedPostsCriteria": "titles-and-tags",
@@ -198,10 +198,10 @@
         "git": {
             "url": "https://github.com/iesalonsodemadrigal/website-iesam.git",
             "branch": "gh-pages",
-            "user": "CarlosDeMoraGil",
-            "password": "publii-git-password uuid-1729786874801-936958331",
-            "commitAuthor": "Carlos",
-            "commitEmail": "carlosdemoragil825@gmail.com",
+            "user": "alfsuace",
+            "password": "publii-git-password uuid-1734377755163-669968870",
+            "commitAuthor": "alfonso",
+            "commitEmail": "alfonso.suaace@educa.jcyl.es",
             "commitMessage": "Publii: update content"
         },
         "github": {
@@ -234,6 +234,6 @@
             "outputDirectory": ""
         }
     },
-    "theme": "prodocs",
-    "syncDate": 1734628505295
+    "theme": "simple",
+    "syncDate": 1734631886633
 }
