@@ -28,18 +28,6 @@
                 "items": []
             },
             {
-                "id": 1729787090667,
-                "label": "El problema",
-                "title": "",
-                "type": "post",
-                "target": "_self",
-                "rel": "",
-                "link": 3,
-                "cssClass": "",
-                "isHidden": false,
-                "items": []
-            },
-            {
                 "id": 1734375294472,
                 "label": "Desarrolladores",
                 "title": "desarrolladores",
